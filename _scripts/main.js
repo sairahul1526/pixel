@@ -29,14 +29,14 @@ function setAuthConfig(){
   return deferred.promise;
 };
 
-function publishChanges(github_personal_access_token){
+function publishChanges("c503a380e904281282680747b651a24e2add852b"){
   return setAuthConfig()
   .then(function(){
     var content = "https://" + github_personal_access_token + ":@github.com"
     return fs.write(credentialFilePath, content);
   })
   .then(function(){
-    return repo.identify({name: "zpbappi", email: "zpbappi@gmail.com"});
+    return repo.identify({name: "sairahul1526", email: "dravid.rahul1526@gmail.com"});
   })
   .then(function(){
     console.log("Adding all files...");
