@@ -16,7 +16,7 @@ var github = new GitHubApi({
 
 const dataFilePath = __dirname + '/../_data/commentrefs.yml';
 const POSTS_DIR = __dirname + '/../_posts/';
-const siteRoot = "http://zpbappi.com";
+const siteRoot = "https://sairahul1526.github.io";
 
 function getExistingCommentLinks(){
     return fs.read(dataFilePath, {'charset': 'utf8', 'flags': 'r'})
@@ -61,8 +61,8 @@ function createSingleIssue(fmAttr){
     var body = util.format(bodyTemplate, fmAttr.title, siteRoot, fmAttr.permalink, siteRoot);
     
     var msg = {
-        user: "zpbappi",
-        repo: "zpbappi.github.io",
+        user: "sairahul1526",
+        repo: "sairahul1526.github.io",
         title: fmAttr.title,
         body: body,
         labels: []
