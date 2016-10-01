@@ -4,6 +4,11 @@ title:      Pixyll in Action
 date:       2014-06-10 12:31:19
 summary:    See what the different elements looks like. Your markdown has never looked better. I promise.
 categories: jekyll pixyll
+author:     BHARDADWAJ SHARMA
+permalink:  /see-what-the-difference-elements-looks-like-your-markdown-has-never-looked-better-i-promise/
+tags:
+  - csharp
+  - ci-cd
 ---
 
 There is a significant amount of subtle, yet precisely calibrated, styling to ensure
