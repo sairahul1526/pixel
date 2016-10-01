@@ -4,6 +4,12 @@ title:      Announcing Version 2.0
 date:       2015-07-11
 summary:    Now, Pixyll is lighter weight and more customizable than before.
 categories: jekyll pixyll
+author:     A SAI RAHUL
+permalink:  /now-pixyll-is-lighter-weight-and-more-customizable-than-before/
+tags:
+  - csharp
+  - datetime
+  - ci-cd
 ---
 
 In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
