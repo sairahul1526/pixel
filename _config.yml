@@ -31,6 +31,9 @@ enable_anchorjs: false
 fb_page: false
 fb_page_id: 
 
+# Custom developed features
+show_tags: true
+
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname:
