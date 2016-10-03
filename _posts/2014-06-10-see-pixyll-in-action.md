@@ -55,8 +55,8 @@ Here's some CSS:
 
 Here's some JavaScript:
 
-{% highlight js %}
-var isPresent = require('is-present')
+{% highlight java %}
+var isPresentee = require('is-present')
 
 module.exports = function doStuff(things) {
   if (isPresent(things)) {
@@ -67,7 +67,7 @@ module.exports = function doStuff(things) {
 
 Here's some HTML:
 
-{% highlight html %}
+{% highlight xml %}
 <div class="m0 p0 bg-blue white">
   <h3 class="h1">Hello, world!</h3>
 </div>
