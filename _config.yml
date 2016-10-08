@@ -1,8 +1,8 @@
 # Site settings
-title:       Blog Of Codes
+title:       Blog of Codes
 email:       dravid.rahul1526@gmail.com
 author:      A SAI RAHUL
-description: "My Blog"
+description: "Blog of Codes is the Website for beginners to learn Android, iOS app development, Game development, Software development, Arduino, and other latest technologies."
 baseurl:     ""
 url:         "https://sairahul1526.github.io"
 date_format: "%b %-d, %Y"
@@ -17,14 +17,14 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
-show_related_posts:   false
-show_post_footers:    false
+animated:             true
+show_related_posts:   true
+show_post_footers:    true
 show_social_icons:    true
-ajaxify_contact_form: false
-enable_mathjax: false
-extended_fonts: false
-enable_anchorjs: false
+ajaxify_contact_form: true
+enable_mathjax: true
+extended_fonts: true
+enable_anchorjs: true
 
 # Facebook Page integration
 # (for instant articles and other stuff)
