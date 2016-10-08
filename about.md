@@ -1,9 +1,13 @@
 ---
 layout: page
-title: About Pixyll
+title: About Blog of Codes
 permalink: /about/
 tags: about
 ---
+
+Blog of Codes is the Website for beginners to learn Android & iOS app developemnt, Game & Software developemt and some other technology related stuff.
+
+# About Developer
 
 Hello, my name is A SAI RAHUL.
 
