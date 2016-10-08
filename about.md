@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Blog of Codes
+title: About
 permalink: /about/
 tags: about
 ---
