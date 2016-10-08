@@ -1,13 +1,13 @@
-<!-- {% for page in site.pages %} -->
-<!--     {% if page.tags contains "android" %} -->
+{% for page in site.pages %}
+    {% if page.tags contains "android" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
-<!--     {% endif %} -->
-<!-- {% endfor %} -->
-<!-- {% for page in site.pages %} -->
-<!--     {% if page.tags contains "android" %} -->
+    {% endif %}
+{% endfor %}
+{% for page in site.pages %}
+    {% if page.tags contains "android" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
-<!--     {% endif %} -->
-<!-- {% endfor %} -->
+    {% endif %}
+{% endfor %}
 {% for page in site.pages %}
     {% if page.tags contains "about" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
