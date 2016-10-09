@@ -40,8 +40,8 @@ disqus_shortname: https-sairahul1526-github-io
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments:
-facebook_appid:
+facebook_comments: true
+facebook_appid: 1633510276948698
 facebook_comments_number: 10
 
 # Social icons
