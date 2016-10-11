@@ -82,7 +82,7 @@ They also heavily rely on the awesome utility, [BASSCSS](http://www.basscss.com/
 
 This allows your content to have the proper informational and contextual hierarchy. Yay.
 
-### There are lists, too
+ * ### There are lists, too
 
   * Apples
   * Oranges
